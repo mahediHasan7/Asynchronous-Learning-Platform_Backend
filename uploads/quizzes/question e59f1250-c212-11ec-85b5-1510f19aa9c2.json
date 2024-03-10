@@ -1,0 +1,1 @@
+{"ops":[{"insert":"Let "},{"attributes":{"italic":true},"insert":"f(x) = 2x – 1"},{"insert":" and "},{"attributes":{"italic":true},"insert":"g(x) = 3x"},{"insert":"\nFind "},{"attributes":{"italic":true},"insert":"f(g(-3))"},{"insert":"\n"}]}

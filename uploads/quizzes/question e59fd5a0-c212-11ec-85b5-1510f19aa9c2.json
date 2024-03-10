@@ -1,0 +1,1 @@
+{"ops":[{"insert":"Given f(x) = 2x and\ng(x) = x"},{"attributes":{"script":"super"},"insert":"2"},{"insert":"+3\nfind f(g(x)).\n"}]}

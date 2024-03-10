@@ -1,0 +1,1 @@
+{"ops":[{"insert":"Given\nf(x) = 2x"},{"attributes":{"script":"super"},"insert":"2"},{"insert":" + 5x - 17.\nfind f(-1).\n"}]}
